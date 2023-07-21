@@ -1,0 +1,6 @@
+name: deploy my lambda function
+
+on:
+  push:
+    branches:
+      - main
